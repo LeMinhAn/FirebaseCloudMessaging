@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FirebaseCloudMessagingTutorial</string>
+     <string name="quickstart_message">Click the SUBSCRIBE TO NEWS button below to subscribe to the
+        news topic. Messages sent to the news topic will be received. The LOG TOKEN button logs the
+        InstanceID token to logcat.</string>
+    <string name="subscribe_to_news">Subscribe To News</string>
+    <string name="log_token">Log Token</string>
+
+    <string name="msg_subscribed">Subscribed to news topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+    <string name="notice_board">Subscribe To Our Health Tips </string>
+    <string name="our_goal">Stay health and enjoy life in fullness</string>
+    <string name="instruction">If you are hoping to stay health you are welcome to join us in our journey with million of people world wide on useful and life changing tips that will not
+    only make you to stay health but strong as you grow older. </string>
+    <string name="subscribe">Subscription status </string>
+    <string name="status">Welcome back. Your subscription is still valid</string>
+    <string name="registered">You can receive notification </string>
+    <string name="un_register">You cannot receive notification</string>
+</resources>
